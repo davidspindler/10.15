@@ -8,8 +8,10 @@
 :root {
 	font-size: 15px;
 }
-
-
+@font-face{
+	font-family: AstragaDragon;
+	src: url(/bdcf316b8b79ba6e5d455913e1763c1c.otf) format("opentype")
+}
 
 body {
 	margin: 0;
